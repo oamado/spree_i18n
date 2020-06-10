@@ -524,6 +524,7 @@ es:
     confirm: Confirmar
     confirm_delete: Confimar borrado
     confirm_password: Confirmación del Password
+    contact_us: Contáctanos
     continue: Continuar
     continue_shopping: Continuar compra
     cost_currency: Moneda de costo
@@ -688,6 +689,7 @@ es:
     free_shipping: Envío gratuito
     free_shipping_amount: Cantidad de envío gratuito
     front_end: Parte delantera
+    follow_us: Síguenos
     gateway: Pasarela
     gateway_config_unavailable: Pasarela no disponible para entorno
     gateway_error: Error en pasarela
