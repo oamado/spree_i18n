@@ -361,6 +361,7 @@ es:
     add_action_of_type: Añadir acción del tipo
     add_country: Añadir País
     add_coupon_code: Agregar Código de Cupón
+    add_new_address: Añadir nueva dirección
     add_new_header: Añadir nueva cabecera
     add_new_style: Añadir nuevo estilo
     add_one: Añadir uno
@@ -422,6 +423,7 @@ es:
     all_adjustments_opened: Todos los ajustes abiertos satisfactoriamente
     all_departments: Todos los departamentos
     all_items_have_been_returned: Todos los productos han sido devueltos
+    all_rights_reserved: Todos los derechos reservados
     allow_ssl_in_development_and_test: Permitir SSL en modo desarrollo y pruebas
     allow_ssl_in_production: Permitir SSL en producción
     allow_ssl_in_staging: Permitir SSL en modo staging
@@ -503,6 +505,10 @@ es:
     charged: Cobrado
     check_for_spree_alerts: Comprobar alertas de Spre
     checkout: Realizar pedido
+    checkout_page:
+      back_to_cart: Volver al carrito
+      delivery_method: Método de envío
+      header: Proceso de compra
     choose_a_customer: Escoge un cliente
     choose_a_taxon_to_sort_products_for: Escoge una clase de productos
     choose_currency: Escoge moneda
@@ -578,6 +584,7 @@ es:
     customer_returns: Retornos del cliente
     customer_search: Búsqueda del Cliente
     cut: Cortar
+    cvv: cvv
     cvv_response: Respuesta de Código de Seguridad
     dash:
       jirafe:
@@ -671,6 +678,7 @@ es:
     expedited_exchanges_warning: Advertencia de intercambios expeditos
     expiration: Vencimiento
     extension: Extensión
+    extensions_directory: Directorio de extensiones
     failed_payment_attempts: Intentos fallidos de pago
     filename: Nombre de Fichero
     fill_in_customer_info: Por favor rellena información del cliente
@@ -695,14 +703,19 @@ es:
     gateway_error: Error en pasarela
     general: General
     general_settings: Preferencias en general
+    go_to_category: Ir a la categoría
     google_analytics: Google Analytics
     google_analytics_id: ID Analytics
     guest_checkout: Comprobación Invitado
     guest_user_account: Comprobación como invitado
     has_no_shipped_units: No tiene unidades enviadas
     height: Altura
+    help_center: Centro de ayuda
     hide_cents: Ocultar céntimos
     home: Inicio
+    homepage:
+      shop_now: COMPRA AHORA
+      read_more: LEE MÁS
     i18n:
       available_locales: Locales Disponibles
       language: Idioma
@@ -754,6 +767,7 @@ es:
     items_reimbursed: Artículos reembolsados
     items_to_be_reimbursed: Artículos pendientes de reembolso
     jirafe: Jirafe
+    join_slack: Unirse a Slack
     landing_page_rule:
       path: Ruta
     last_name: Apellidos
@@ -930,6 +944,8 @@ es:
       payment: Pago
       resumed: reanudado
       returned: devuelto
+    order_success: Orden exitosa
+    order_success_explain: Recibirá la información de su pedido por correo electrónico.
     order_summary: Resumen del pedido
     order_sure_want_to: "¿Estás seguro de que quieres %{event} este pedido?"
     order_total: Total Pedido
@@ -970,6 +986,7 @@ es:
       void: anular
     payment_updated: Pago actualizado
     payments: Pagos
+    payment_type: Método de pago
     pending: Pendiente
     percent: Porcentaje
     percent_per_item: Porcentaje por artículo
@@ -1110,6 +1127,8 @@ es:
     rename: Renombrar
     report: Reporte
     reports: Informes
+    required: "*"
+    required_fields: Campos obligatorios
     resend: Reenviar
     reset_password: Reinicializar password
     response_code: Código de respuesta
@@ -1283,6 +1302,7 @@ es:
     stop: Parar
     store: Tienda
     stores: Tiendas
+    store_credit_name: Saldo a favor
     store_default: Tienda predeterminada
     store_set_default_button: Definir como predeterminada
     street_address: Calle
